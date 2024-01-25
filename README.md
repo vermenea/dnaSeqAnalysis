@@ -1,4 +1,4 @@
-# Analizator sekwencji DNA
+# Analizator sekwencji DNA🧬
 
 ## Opis
 
